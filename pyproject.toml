@@ -4,7 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["MLS <mls@damvad.com>"]
 readme = "README.md"
-packages = [{include = "bibliometrics_app"}]
+packages = [{include = "src"}]
 
 [tool.poetry.dependencies]
 python = ">=3.9,<3.9.7 || >3.9.7,<4.0"
