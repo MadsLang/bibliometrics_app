@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import io
-from get_data import getOAdata
+from src.get_data import getOAdata
 
 st.title('Easy access to bibliometric data')
 
